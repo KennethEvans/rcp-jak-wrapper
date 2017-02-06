@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JAK
-Bundle-SymbolicName: net.kenevans.jak
+Bundle-SymbolicName: net.kenevans.rcp.jak
 Bundle-Version: 2.2.1
 Bundle-ClassPath: JavaAPIforKml-sources.jar,
  JavaAPIforKml.jar
